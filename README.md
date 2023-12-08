@@ -46,14 +46,14 @@ Use AWS Code Commit for Version Control
 ```
 
 - AMT - Assign Management Task System
-```The system is a project management solutions that powers collaboration across all teams. It helps plan, assign, track, report, and manage work and brings teams together.
+```
+The system is a project management solutions that powers collaboration across all teams. It helps plan, assign, track, report, and manage work and brings teams together.
 Interacted with a single page application to API
 Implemented coding (Backend)
 Created technical documentation(API, Database-table, Service, Form, Testing) 
 Created Seeding - Sample Data
 Reviewed code and solved issues with juniors
 Use AWS Code Commit for Version Control
-
 ```
 
 ** Node JS & Vue JS Projects: **
