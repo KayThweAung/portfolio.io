@@ -23,53 +23,37 @@
 April 2019 - PRESENT,  Mandalay
 
 ** Laravel Projects: **
-- Client Project (Present)
+- OEMS - Office Employee Management System
 ```
-Using Tech : Laravel-9
-Running Consumer Survey for start, weekly and monthly that will get their results depending on Sleep or Lifestyle Program
-Batch system for Sending remind mail and report mail for their results
-Use AWS Code Commit for Version Control
-Build new project with laravel (customer project)
-Run and maintain with Docker Service
-Build and deploy on AWS CI/CD
+Managed employees and centralized HR information. It maintains the information about the personal details of employees, season parking, csv file import  & export, print reports. The application is actually a suite of applications developed using Laravel framework. I was assigned to:
+Designed database table definition, and database new features with Read/Write Locking
+Implemented Coding
+Implemented Testing
+Created technical documentation(Service, Form, Testing)
+Created Seeding - Sample Data
 Collaborate and communicate with Japan Team Members
-```
-- Batch System
-```
-Using Tech : Laravel-9 , Node.js , AWS APIGateways , DynamoDB , Lambda and AWS RDS 
-Running Sequentially , Daily and Monthly Batches
- Unit Testing
 Use AWS Code Commit for Version Control
-Re-build new project with laravel (form Fuel project)
-Run and maintain with Docker Service
-Build and deploy on AWS CI/CD
+```
+- Mecipe - Recipe Service for Myanmar
+```
+The service is a recipe site that allows visitors to upload and search through original, user-created recipes. The service is available in localization with English, Myanmar and Japanese. I was assigned to:
+Implemented coding on both user(client) site and admin site
+Created technical documentation(Service, Form, Testing) 
+Created Seeding - Sample Data
+Reviewed code and solved issues with juniors
 Collaborate and communicate with Japan Team Members
+Use AWS Code Commit for Version Control
 ```
 
-- Employee Management System
-```
-Used Tech :  Laravel-6, MySQL and AWS S3
-Initial On-the-Job Training(OJT)
+- AMT - Assign Management Task System
+```The system is a project management solutions that powers collaboration across all teams. It helps plan, assign, track, report, and manage work and brings teams together.
+Interacted with a single page application to API
+Implemented coding (Backend)
+Created technical documentation(API, Database-table, Service, Form, Testing) 
+Created Seeding - Sample Data
+Reviewed code and solved issues with juniors
 Use AWS Code Commit for Version Control
-Collaborated with Team Members
-8% Cash Back Campaign Consumer and Administration Sites 
-Used Tech : Laravel -6, Email System , Banking Service in Japan
-Periodically Customer Project for 8% Cash Back System
-Use AWS Code Commit for Version Control
-Collaborated with Management Team in Japan
-Laravel Design Patterns (OJT)
-```
 
-** GoLang & React JS Project: **
-- Content Form Management Consumer and Administration Sites
-```
-Using Tech : React , Go-Lang and various of AWS Services
-In-house Project
-Collaborated with Management Team in Japan
-Develop  and maintain in Back-end
-Use GitLab for Version Control
-Develop with AWS WAF , SNS notification alert for Website Security 
-Learn and research for React Framework
 ```
 
 ** Node JS & Vue JS Projects: **
@@ -78,6 +62,7 @@ Learn and research for React Framework
 Using Tech : Vue , Node.js(Express) and MariaDB
  OAuth with Gmail & Facebook 
 Automated Testing with Mochi & Chai (Javascript Framework)
+Automated Testing with Vue Test Utility (Javascript Framework)
 Use Scrum as SDLC
 On-the-Job Training(OJT) for Creative Ideas
 Ran and containerized with Docker Service
