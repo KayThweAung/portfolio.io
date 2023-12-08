@@ -44,7 +44,6 @@ Reviewed code and solved issues with juniors
 Collaborate and communicate with Japan Team Members
 Use AWS Code Commit for Version Control
 ```
-
 - AMT - Assign Management Task System
 ```
 The system is a project management solutions that powers collaboration across all teams. It helps plan, assign, track, report, and manage work and brings teams together.
@@ -55,7 +54,6 @@ Created Seeding - Sample Data
 Reviewed code and solved issues with juniors
 Use AWS Code Commit for Version Control
 ```
-
 ** Node JS & Vue JS Projects: **
 - Real Estate Consumer & Admin Sites
 ```
